@@ -1,6 +1,6 @@
 
-# Libft Project 📚
-My first C programming project at 42, serving as a cornerstone for future coding endeavors.
+# Libft Project
+First C programming project at 42, serving as a cornerstone for future coding endeavors.
 
 ## What is it?
 A custom C library containing functions implemented from scratch, 
@@ -18,7 +18,7 @@ mimicking standard C library functions and including additional utilities.
 - Character Operations (e.g. `ft_isalpha`, `ft_isdigit`, `ft_toupper`)
 - File Descriptor Functions (e.g. `ft_putchar_fd`, `ft_putstr_fd`)
 
-## 'Libft.a' - My personal touch 🎨
+## 'Libft.a' - My personal touch
 Once the project finished I decided to create a static library containing all my functions: libft.a.
 Thus:
 - you can link `libft.a` to any future project
